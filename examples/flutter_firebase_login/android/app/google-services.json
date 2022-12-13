@@ -8,9 +8,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:311461039753:android:4a0bd108d74678cfc50058",
+        "mobilesdk_app_id": "1:311461039753:android:dde1e5670a275f5bc50058",
         "android_client_info": {
-          "package_name": "com.example.flutter_firebase_login"
+          "package_name": "com.cheng.flutterFirebaseLoginDemo"
         }
       },
       "oauth_client": [
@@ -30,6 +30,13 @@
             {
               "client_id": "311461039753-un5p3qc7j1lgcqpdpcur65cki0l26tm9.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "311461039753-gpoq9n13vqh8ag9tama25bmm537uufng.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cheng.flutterFirebaseLoginDemo"
+              }
             }
           ]
         }
@@ -59,35 +66,13 @@
             {
               "client_id": "311461039753-un5p3qc7j1lgcqpdpcur65cki0l26tm9.apps.googleusercontent.com",
               "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:311461039753:android:7f4058696034381bc50058",
-        "android_client_info": {
-          "package_name": "dev.flutter.plugins.firebaseauthexample"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "311461039753-un5p3qc7j1lgcqpdpcur65cki0l26tm9.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyAEGleRVssYcnZ5BY8_xYghEaI3ub35dM8"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
+            },
             {
-              "client_id": "311461039753-un5p3qc7j1lgcqpdpcur65cki0l26tm9.apps.googleusercontent.com",
-              "client_type": 3
+              "client_id": "311461039753-gpoq9n13vqh8ag9tama25bmm537uufng.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cheng.flutterFirebaseLoginDemo"
+              }
             }
           ]
         }
@@ -117,6 +102,13 @@
             {
               "client_id": "311461039753-un5p3qc7j1lgcqpdpcur65cki0l26tm9.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "311461039753-gpoq9n13vqh8ag9tama25bmm537uufng.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cheng.flutterFirebaseLoginDemo"
+              }
             }
           ]
         }
@@ -146,6 +138,13 @@
             {
               "client_id": "311461039753-un5p3qc7j1lgcqpdpcur65cki0l26tm9.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "311461039753-gpoq9n13vqh8ag9tama25bmm537uufng.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cheng.flutterFirebaseLoginDemo"
+              }
             }
           ]
         }
@@ -175,6 +174,13 @@
             {
               "client_id": "311461039753-un5p3qc7j1lgcqpdpcur65cki0l26tm9.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "311461039753-gpoq9n13vqh8ag9tama25bmm537uufng.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cheng.flutterFirebaseLoginDemo"
+              }
             }
           ]
         }

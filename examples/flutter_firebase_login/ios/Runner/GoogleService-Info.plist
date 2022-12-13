@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>979633879366-7fh9utsod6e5pfjh2l01fh6dk2chjc8d.apps.googleusercontent.com</string>
+	<string>311461039753-gpoq9n13vqh8ag9tama25bmm537uufng.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.979633879366-7fh9utsod6e5pfjh2l01fh6dk2chjc8d</string>
+	<string>com.googleusercontent.apps.311461039753-gpoq9n13vqh8ag9tama25bmm537uufng</string>
 	<key>API_KEY</key>
-	<string>AIzaSyDVqdUKRfDx2AJbcbGp9MDMq_GdYqlOBXA</string>
+	<string>AIzaSyAub-sNq7aX6bqaS9Ar7w3YS9C3Bo96e0I</string>
 	<key>GCM_SENDER_ID</key>
-	<string>979633879366</string>
+	<string>311461039753</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.bloclibrary.flutterFirebaseLogin</string>
+	<string>com.cheng.flutterFirebaseLoginDemo</string>
 	<key>PROJECT_ID</key>
-	<string>flutter-firebase-auth-2b1c3</string>
+	<string>fir-demo-5bf7a</string>
 	<key>STORAGE_BUCKET</key>
-	<string>flutter-firebase-auth-2b1c3.appspot.com</string>
+	<string>fir-demo-5bf7a.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,8 +29,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:979633879366:ios:ff401cff86859619d98d47</string>
+	<string>1:311461039753:ios:e4d848f3cd35fe8cc50058</string>
 	<key>DATABASE_URL</key>
-	<string>https://flutter-firebase-auth-2b1c3.firebaseio.com</string>
+	<string>https://fir-demo-5bf7a.firebaseio.com</string>
 </dict>
 </plist>
